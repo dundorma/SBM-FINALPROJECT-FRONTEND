@@ -47,4 +47,3 @@ var gaugeTemp = new LinearGauge({
   barWidth: 10,
 }).draw();
 
-gaugeTemp.value = temp_val;
